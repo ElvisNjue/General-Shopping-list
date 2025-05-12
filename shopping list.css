@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+input[type='text'] {
+    padding: 6px;
+    width: 150px;
+}
+
+button {
+    padding: 7px;
+    margin: 180px;
+}
+
+li.purchased {
+    text-decoration: line-through;
+    color: grey;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    cursor: pointer;
+    margin: 5px 0;
+}
